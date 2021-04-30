@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/toby001/PICO_MIO/Pico_MIO/lcd_i2c_cpp/build/CMakeFiles/ELF2UF2Build"
+		},
+		{
+			"file" : "/home/toby001/PICO_MIO/Pico_MIO/lcd_i2c_cpp/build/CMakeFiles/ELF2UF2Build.rule"
+		},
+		{
+			"file" : "/home/toby001/PICO_MIO/Pico_MIO/lcd_i2c_cpp/build/CMakeFiles/ELF2UF2Build-complete.rule"
+		},
+		{
+			"file" : "/home/toby001/PICO_MIO/Pico_MIO/lcd_i2c_cpp/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule"
+		},
+		{
+			"file" : "/home/toby001/PICO_MIO/Pico_MIO/lcd_i2c_cpp/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule"
+		},
+		{
+			"file" : "/home/toby001/PICO_MIO/Pico_MIO/lcd_i2c_cpp/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule"
+		},
+		{
+			"file" : "/home/toby001/PICO_MIO/Pico_MIO/lcd_i2c_cpp/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule"
+		},
+		{
+			"file" : "/home/toby001/PICO_MIO/Pico_MIO/lcd_i2c_cpp/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule"
+		},
+		{
+			"file" : "/home/toby001/PICO_MIO/Pico_MIO/lcd_i2c_cpp/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule"
+		},
+		{
+			"file" : "/home/toby001/PICO_MIO/Pico_MIO/lcd_i2c_cpp/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ELF2UF2Build"
+		],
+		"name" : "ELF2UF2Build"
+	}
+}

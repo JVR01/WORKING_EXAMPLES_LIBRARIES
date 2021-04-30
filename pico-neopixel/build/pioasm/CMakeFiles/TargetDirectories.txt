@@ -1,0 +1,3 @@
+/home/toby001/Downloads/pico-neopixel/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/toby001/Downloads/pico-neopixel/build/pioasm/CMakeFiles/edit_cache.dir
+/home/toby001/Downloads/pico-neopixel/build/pioasm/CMakeFiles/pioasm.dir

@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles/PioasmBuild
+/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles/PioasmBuild.rule
+/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles/PioasmBuild-complete.rule
+/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule
+/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule

@@ -1,0 +1,5 @@
+/home/toby001/PICO_MIO/Pico_MIO/lcd_i2c_cpp/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+/home/toby001/PICO_MIO/Pico_MIO/lcd_i2c_cpp/build/elf2uf2/CMakeFiles/edit_cache.dir
+/home/toby001/PICO_MIO/Pico_MIO/lcd_i2c_cpp/build/elf2uf2/CMakeFiles/elf2uf2.dir
+/home/toby001/PICO_MIO/Pico_MIO/lcd_i2c_cpp/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
+/home/toby001/PICO_MIO/Pico_MIO/lcd_i2c_cpp/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
