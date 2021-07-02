@@ -99,106 +99,106 @@ CMakeFiles/WheaterEstation.dir/lib/lcd_i2c.cpp.s: cmake_force
 CMakeFiles/WheaterEstation.dir/lib/ds3231.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/lib/ds3231.c.obj: ../lib/ds3231.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/WheaterEstation.dir/lib/ds3231.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/lib/ds3231.c.obj   -c /home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/lib/ds3231.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/lib/ds3231.c.obj   -c /home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/lib/ds3231.c
 
 CMakeFiles/WheaterEstation.dir/lib/ds3231.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/lib/ds3231.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/lib/ds3231.c > CMakeFiles/WheaterEstation.dir/lib/ds3231.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/lib/ds3231.c > CMakeFiles/WheaterEstation.dir/lib/ds3231.c.i
 
 CMakeFiles/WheaterEstation.dir/lib/ds3231.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/lib/ds3231.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/lib/ds3231.c -o CMakeFiles/WheaterEstation.dir/lib/ds3231.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/lib/ds3231.c -o CMakeFiles/WheaterEstation.dir/lib/ds3231.c.s
 
 CMakeFiles/WheaterEstation.dir/lib/ws2812.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/lib/ws2812.c.obj: ../lib/ws2812.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/WheaterEstation.dir/lib/ws2812.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/lib/ws2812.c.obj   -c /home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/lib/ws2812.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/lib/ws2812.c.obj   -c /home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/lib/ws2812.c
 
 CMakeFiles/WheaterEstation.dir/lib/ws2812.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/lib/ws2812.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/lib/ws2812.c > CMakeFiles/WheaterEstation.dir/lib/ws2812.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/lib/ws2812.c > CMakeFiles/WheaterEstation.dir/lib/ws2812.c.i
 
 CMakeFiles/WheaterEstation.dir/lib/ws2812.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/lib/ws2812.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/lib/ws2812.c -o CMakeFiles/WheaterEstation.dir/lib/ws2812.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/lib/ws2812.c -o CMakeFiles/WheaterEstation.dir/lib/ws2812.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj: /home/toby001/pico/pico-sdk/src/rp2_common/hardware_divider/divider.S
@@ -208,223 +208,223 @@ CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/time.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/time.c.obj: /home/toby001/pico/pico-sdk/src/common/pico_time/time.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/time.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/time.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_time/time.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/time.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_time/time.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/time.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/time.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_time/time.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/time.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_time/time.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/time.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/time.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/time.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_time/time.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/time.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_time/time.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/time.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj: /home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_time/timeout_helper.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c.obj: /home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/sem.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj: /home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/lock_core.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c.obj: /home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/mutex.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj: /home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_sync/critical_section.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c.obj: /home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/datetime.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c.obj: /home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/pheap.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/queue.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/queue.c.obj: /home/toby001/pico/pico-sdk/src/common/pico_util/queue.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/queue.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/queue.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_util/queue.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/queue.c.obj   -c /home/toby001/pico/pico-sdk/src/common/pico_util/queue.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/queue.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/queue.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_util/queue.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/queue.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/common/pico_util/queue.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/queue.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/queue.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/queue.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_util/queue.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/queue.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/common/pico_util/queue.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/common/pico_util/queue.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj: /home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S
@@ -434,15 +434,15 @@ CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S
@@ -452,15 +452,15 @@ CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_bi
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_divider/divider.S
@@ -475,28 +475,28 @@ CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_do
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S
@@ -516,28 +516,28 @@ CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_fl
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S
@@ -547,15 +547,15 @@ CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_fl
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S
@@ -583,314 +583,301 @@ CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_st
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
-
-CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
-CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c
-
-CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
-
-CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: /home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: /home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: /home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: /home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c.obj: /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/net/net_device.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c.obj: /home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/tusb.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: /home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj   -c /home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.s
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj: CMakeFiles/WheaterEstation.dir/flags.make
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj: /home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj   -c /home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.i"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.i
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c > CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.i
 
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.s"
-	/bin/arm-none-eabi-gcc-9.2.1 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.s
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c -o CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.s
 
 # Object files for target WheaterEstation
 WheaterEstation_OBJECTS = \
@@ -943,7 +930,6 @@ WheaterEstation_OBJECTS = \
 "CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj" \
 "CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj" \
 "CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj" \
-"CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj" \
 "CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj" \
 "CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj" \
 "CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj" \
@@ -1018,7 +1004,6 @@ WheaterEstation.elf: CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/s
 WheaterEstation.elf: CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
 WheaterEstation.elf: CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
 WheaterEstation.elf: CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-WheaterEstation.elf: CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
 WheaterEstation.elf: CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
 WheaterEstation.elf: CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
 WheaterEstation.elf: CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
@@ -1043,7 +1028,7 @@ WheaterEstation.elf: CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/s
 WheaterEstation.elf: CMakeFiles/WheaterEstation.dir/build.make
 WheaterEstation.elf: pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S
 WheaterEstation.elf: CMakeFiles/WheaterEstation.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Linking CXX executable WheaterEstation.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Linking CXX executable WheaterEstation.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/WheaterEstation.dir/link.txt --verbose=$(VERBOSE)
 	/usr/bin/arm-none-eabi-objcopy -Oihex WheaterEstation.elf WheaterEstation.hex
 	/usr/bin/arm-none-eabi-objcopy -Obinary WheaterEstation.elf WheaterEstation.bin

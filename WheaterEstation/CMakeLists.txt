@@ -24,10 +24,10 @@ pico_generate_pio_header(WheaterEstation ${CMAKE_CURRENT_LIST_DIR}/lib/ws2812.pi
 
 
 #--target_link_libraries(WheaterEstation  pico_stdlib hardware_i2c)
-target_link_libraries(WheaterEstation PRIVATE pico_stdlib hardware_i2c hardware_pio)
+target_link_libraries(WheaterEstation PRIVATE pico_stdlib hardware_i2c hardware_pio hardware_uart)
 
 # create map/bin/hex file etc.
 pico_enable_stdio_usb(WheaterEstation 1)
-pico_enable_stdio_uart(WheaterEstation 1)
+pico_enable_stdio_uart(WheaterEstation 0)
 pico_add_extra_outputs(WheaterEstation)
 

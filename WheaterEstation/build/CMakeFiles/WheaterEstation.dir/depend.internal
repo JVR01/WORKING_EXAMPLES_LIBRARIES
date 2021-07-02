@@ -707,7 +707,6 @@ CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/lib/tinyusb/src/portab
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/include/pico/fix/rp2040_usb_device_enumeration.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
- /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/include/tusb_config.h
  generated/pico_base/pico/config_autogen.h
@@ -1478,50 +1477,16 @@ CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_st
  /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/addressmap.h
  /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h
  /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/timer.h
- /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h
  /home/toby001/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/timer.h
- /home/toby001/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h
  /home/toby001/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h
  /home/toby001/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h
  /home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h
- /home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_printf/include/pico/printf.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio/driver.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c
- /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h
- generated/pico_base/pico/config_autogen.h
- generated/pico_base/pico/version.h
-CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
- /home/toby001/pico/pico-sdk/src/boards/include/boards/pico.h
- /home/toby001/pico/pico-sdk/src/common/pico_base/include/pico.h
- /home/toby001/pico/pico-sdk/src/common/pico_base/include/pico/assert.h
- /home/toby001/pico/pico-sdk/src/common/pico_base/include/pico/config.h
- /home/toby001/pico/pico-sdk/src/common/pico_base/include/pico/error.h
- /home/toby001/pico/pico-sdk/src/common/pico_base/include/pico/types.h
- /home/toby001/pico/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h
- /home/toby001/pico/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h
- /home/toby001/pico/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h
- /home/toby001/pico/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h
- /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
- /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/addressmap.h
- /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pads_bank0.h
- /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h
- /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h
- /home/toby001/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/interp.h
- /home/toby001/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/padsbank0.h
- /home/toby001/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/sio.h
- /home/toby001/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h
- /home/toby001/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h
- /home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio.h
- /home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h
- /home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
- /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
- /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio/driver.h
- /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
- /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c
  generated/pico_base/pico/config_autogen.h
  generated/pico_base/pico/version.h
 CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
@@ -1765,7 +1730,6 @@ CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_st
  /home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
- /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
  generated/pico_base/pico/config_autogen.h
@@ -1801,7 +1765,6 @@ CMakeFiles/WheaterEstation.dir/lib/ds3231.c.obj
  /home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
- /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h
  generated/pico_base/pico/config_autogen.h
  generated/pico_base/pico/version.h
@@ -1841,7 +1804,6 @@ CMakeFiles/WheaterEstation.dir/lib/ws2812.c.obj
  /home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
- /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h
  generated/pico_base/pico/config_autogen.h
  generated/pico_base/pico/version.h
@@ -1911,7 +1873,6 @@ CMakeFiles/WheaterEstation.dir/lib/lcd_i2c.cpp.obj
  /home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
- /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h
  generated/pico_base/pico/config_autogen.h
  generated/pico_base/pico/version.h
@@ -1938,6 +1899,8 @@ CMakeFiles/WheaterEstation.dir/main.cpp.obj
  /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/clocks.h
  /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h
  /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/i2c.h
+ /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/intctrl.h
+ /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/m0plus.h
  /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pads_bank0.h
  /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pio.h
  /home/toby001/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h
@@ -1955,13 +1918,13 @@ CMakeFiles/WheaterEstation.dir/main.cpp.obj
  /home/toby001/pico/pico-sdk/src/rp2_common/hardware_clocks/include/hardware/clocks.h
  /home/toby001/pico/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio.h
  /home/toby001/pico/pico-sdk/src/rp2_common/hardware_i2c/include/hardware/i2c.h
+ /home/toby001/pico/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h
  /home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/include/hardware/pio.h
  /home/toby001/pico/pico-sdk/src/rp2_common/hardware_pio/include/hardware/pio_instructions.h
  /home/toby001/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h
  /home/toby001/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
- /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
  /home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h
  generated/pico_base/pico/config_autogen.h
  generated/pico_base/pico/version.h

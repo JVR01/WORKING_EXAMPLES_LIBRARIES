@@ -1496,7 +1496,7 @@ CMakeFiles/ELF2UF2Build.dir/clean:
 CMakeFiles/WheaterEstation_ws2812_pio_h.dir/all: CMakeFiles/PioasmBuild.dir/all
 	$(MAKE) -f CMakeFiles/WheaterEstation_ws2812_pio_h.dir/build.make CMakeFiles/WheaterEstation_ws2812_pio_h.dir/depend
 	$(MAKE) -f CMakeFiles/WheaterEstation_ws2812_pio_h.dir/build.make CMakeFiles/WheaterEstation_ws2812_pio_h.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=89 "Built target WheaterEstation_ws2812_pio_h"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=88 "Built target WheaterEstation_ws2812_pio_h"
 .PHONY : CMakeFiles/WheaterEstation_ws2812_pio_h.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1552,12 +1552,12 @@ CMakeFiles/WheaterEstation.dir/all: CMakeFiles/WheaterEstation_ws2812_pio_h.dir/
 CMakeFiles/WheaterEstation.dir/all: pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm.dir/all
 	$(MAKE) -f CMakeFiles/WheaterEstation.dir/build.make CMakeFiles/WheaterEstation.dir/depend
 	$(MAKE) -f CMakeFiles/WheaterEstation.dir/build.make CMakeFiles/WheaterEstation.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88 "Built target WheaterEstation"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87 "Built target WheaterEstation"
 .PHONY : CMakeFiles/WheaterEstation.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/WheaterEstation.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles 93
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles 92
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/WheaterEstation.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles 0
 .PHONY : CMakeFiles/WheaterEstation.dir/rule
@@ -1579,7 +1579,7 @@ CMakeFiles/WheaterEstation.dir/clean:
 pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm.dir/all: pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default.dir/all
 	$(MAKE) -f pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm.dir/build.make pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm.dir/depend
 	$(MAKE) -f pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm.dir/build.make pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=93,94 "Built target bs2_default_padded_checksummed_asm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=92,93 "Built target bs2_default_padded_checksummed_asm"
 .PHONY : pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1606,7 +1606,7 @@ pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_as
 pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_bin.dir/all: pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default.dir/all
 	$(MAKE) -f pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_bin.dir/build.make pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_bin.dir/depend
 	$(MAKE) -f pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_bin.dir/build.make pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_bin.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=92 "Built target bs2_default_bin"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=91 "Built target bs2_default_bin"
 .PHONY : pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_bin.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1633,7 +1633,7 @@ pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_bin.dir/clean:
 pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default.dir/all:
 	$(MAKE) -f pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default.dir/build.make pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default.dir/depend
 	$(MAKE) -f pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default.dir/build.make pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=90,91 "Built target bs2_default"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/toby001/PICO_MIO/WORKING_EXAMPLES_LIBRARIES/WheaterEstation/build/CMakeFiles --progress-num=89,90 "Built target bs2_default"
 .PHONY : pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default.dir/all
 
 # Build rule for subdir invocation for target.

@@ -1650,33 +1650,6 @@ home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s:
 	$(MAKE) -f CMakeFiles/WheaterEstation.dir/build.make CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 .PHONY : home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 
-home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj: home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-
-.PHONY : home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj
-
-# target to build an object file
-home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj:
-	$(MAKE) -f CMakeFiles/WheaterEstation.dir/build.make CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-.PHONY : home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-
-home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i: home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
-
-.PHONY : home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i
-
-# target to preprocess a source file
-home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i:
-	$(MAKE) -f CMakeFiles/WheaterEstation.dir/build.make CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
-.PHONY : home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
-
-home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s: home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
-
-.PHONY : home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s
-
-# target to generate assembly for a file
-home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s:
-	$(MAKE) -f CMakeFiles/WheaterEstation.dir/build.make CMakeFiles/WheaterEstation.dir/home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
-.PHONY : home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
-
 home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj: home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
 
 .PHONY : home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj
@@ -2096,9 +2069,6 @@ help:
 	@echo "... home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.obj"
 	@echo "... home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.i"
 	@echo "... home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.s"
-	@echo "... home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj"
-	@echo "... home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i"
-	@echo "... home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s"
 	@echo "... home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj"
 	@echo "... home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.i"
 	@echo "... home/toby001/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.s"
