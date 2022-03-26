@@ -1,0 +1,5 @@
+/home/toby001/Documents/WORKING_EXAMPLES_LIBRARIES/Simple_Serial_Read/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+/home/toby001/Documents/WORKING_EXAMPLES_LIBRARIES/Simple_Serial_Read/build/elf2uf2/CMakeFiles/edit_cache.dir
+/home/toby001/Documents/WORKING_EXAMPLES_LIBRARIES/Simple_Serial_Read/build/elf2uf2/CMakeFiles/elf2uf2.dir
+/home/toby001/Documents/WORKING_EXAMPLES_LIBRARIES/Simple_Serial_Read/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
+/home/toby001/Documents/WORKING_EXAMPLES_LIBRARIES/Simple_Serial_Read/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir

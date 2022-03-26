@@ -1,0 +1,59 @@
+aaaa
+
+#create project folder
+
+# import the SDk to this folder 
+>git clone https://github.com/raspberrypi/pico-sdk.git
+
+*or just copi the folder from other project
+
+#copy hier the cmake file inside the SDK folder 
+>cp pico-sdk/external/pico_sdk_import.cmake ./     (Example, check path)
+
+# check the variable $
+>export PICO_SDK_PATH=/home/toby001/Documents/Pico_MIO/pico-sdk   (Example, check path) skip if inside PIco_mio
+>cp ../pico-sdk/external/pico_sdk_import.cmake ./   #example if in proj folder
+
+
+
+/home/toby001/Documents/Pico_MIO/pico-sdk
+
+
+>echo $PICO_SDK_PATH
+
+#put the C file inside the ProjectFolder (Example flash_lec.c)
+
+#cretae a CMakefile.txt
+>touch CMakeLists.txt   (Here you define the Files and paths for the compiller to know what und where)
+
+#create build directory and build there
+
+>cmake ..    (inside the build folder)
+
+#check if ready to compile
+
+*-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+ELF2UF2 will need to be built   (normal error!?)
+
+#compile the thing
+
+>make flash_led    (on build folder)
+
+Got it!  Put the .uf2 file into the Pico
+
+*don need to put the .c file into Build
+
+
+
+create enviormet variable and add it Permanently > nano ~/.profile  >source ~/.profile >reboot
+
+
+
+
+
+
+
+
+
+
+
